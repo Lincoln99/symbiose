@@ -18,7 +18,7 @@
 		_config: {
 			homepage: 'https://www.duckduckgo.com/?kd=-1&kn=-1',
 			enableProxy: true,
-			proxyUrl: 'http://symbiose-proxy.herokuapp.com/',
+			proxyUrl: 'http://shiresoft.ml/proxy/',
 			proxyFlags: {
 				'include_form'    : false,
 				'remove_scripts'  : false,
@@ -26,7 +26,7 @@
 				'show_images'     : true,
 				'show_referer'    : true,
 				'rotate13'        : false,
-				'base64_encode'   : true,
+				'base64_encode'   : false,
 				'strip_meta'      : false,
 				'strip_title'     : false,
 				'session_cookies' : true,
