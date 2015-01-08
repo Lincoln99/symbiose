@@ -16,7 +16,7 @@
 		_$iframe: $(),
 		_$configForm: $(),
 		_config: {
-			homepage: 'https://www.duckduckgo.com/?kd=-1&kn=-1',
+			homepage: 'google.com',
 			enableProxy: true,
 			proxyUrl: 'http://shiresoft.ml/proxy/',
 			proxyFlags: {
