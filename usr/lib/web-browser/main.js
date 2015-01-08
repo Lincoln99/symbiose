@@ -16,7 +16,7 @@
 		_$iframe: $(),
 		_$configForm: $(),
 		_config: {
-			homepage: 'google.com',
+			homepage: '',
 			enableProxy: true,
 			proxyUrl: 'http://shiresoft.ml/proxy/',
 			proxyFlags: {
